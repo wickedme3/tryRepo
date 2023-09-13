@@ -22,6 +22,9 @@ num2
 num3 <- 1+1
 1+1
 
+#additional file
+2 + 2
+
 grades <- c(89,90,75)
 grades
 # The Console
